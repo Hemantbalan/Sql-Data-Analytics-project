@@ -1,2 +1,9 @@
-# Sql-Data-Analytics-project
-Developed and optimized SQL queries to clean, transform, and analyze large datasets. Automated reporting pipelines and integrated outputs with Tableau dashboards to deliver actionable business insights. Applied statistical logic and multi-metric analysis to support data-driven decision-making.
+# sql-data-analytics-project
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+
+🌟About Me
+--
+Hey there! I'm Himanshu — a Data Analyst passionate about uncovering insights and transforming data into strategy
